@@ -1096,8 +1096,8 @@ MonoBehaviour:
   Radius: 4
   UpShift: 1
   ViewCorrection: 7
-  sensX: 400
-  sensY: 400
+  sensX: 200
+  sensY: 200
 --- !u!4 &871039584
 Transform:
   m_ObjectHideFlags: 0

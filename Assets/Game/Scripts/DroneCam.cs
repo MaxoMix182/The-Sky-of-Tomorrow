@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DroneCamLocation : MonoBehaviour
+public class DroneCam: MonoBehaviour
 {
     public Transform Cam;
     public Transform CamPOI;
